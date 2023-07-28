@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Huzaifa-Muhammed
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Unity and Flutter
 - 🌱 I’m currently doing BS iin Computer Science and Engineering
 - 💞️ I’m looking to collaborate on working with a Game Develpor
 - 📫 Conatct me on muhammadhuzaifamh777@gmail.com
